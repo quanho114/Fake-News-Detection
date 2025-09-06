@@ -8,7 +8,7 @@ By leveraging transfer learning and modern NLP architectures, this project demon
 
 ## 🚀 Demo
 
-- 🎥 [Watch the demo video](Media1.mp4)  
+- 🎥 [Download the demo video](https://github.com/quanho114/Fake-News-Detection/raw/main/media/Media1.mp4) 
 - 🖥️ Try the Gradio app locally:
   ```
   python app/gradio_app.py
