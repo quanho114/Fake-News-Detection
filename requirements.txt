@@ -1,0 +1,3 @@
+!pip install -qq gdown
+!pip install -qq contractions
+!pip install -qq gradio 
